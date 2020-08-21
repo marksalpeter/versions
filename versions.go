@@ -1,4 +1,4 @@
 package versions
 
 // Version is a string representation of the version number of this package
-const Version = "v3.0.0"
+const Version = "v5.0.0"
